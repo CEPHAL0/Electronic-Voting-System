@@ -4,4 +4,5 @@ Electronic voting system using python along with Admin panel with various functi
 ## Prequesites
 ```shell
 pip install maskpass
-pip install sqlite3```
+pip install sqlite3
+```
